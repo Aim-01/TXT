@@ -1,0 +1,4 @@
+1) name: Aim
+2) age: 30
+3) pets: two cats
+4) salary preferencs: 800 USD

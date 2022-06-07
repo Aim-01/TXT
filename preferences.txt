@@ -1,0 +1,5 @@
+1) fav.film: "200 pouns Beauty"
+2) fav.serial: "Stranger things"
+3) fav.food: salad
+4) fav.season: any
+5) fav.country: Italy
